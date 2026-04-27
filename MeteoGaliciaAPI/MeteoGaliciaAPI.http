@@ -1,0 +1,6 @@
+@MeteoGaliciaAPI_HostAddress = http://localhost:5195
+
+GET {{MeteoGaliciaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
