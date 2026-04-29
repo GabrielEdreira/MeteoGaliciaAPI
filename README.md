@@ -30,7 +30,7 @@ El proyecto tiene un archivo `.http` incluido con una serie de ejemplos
 
 ## Endpoint
 
-GET/api/MeteoGalicia/{municipio} 
+GET/api/observacion/{municipio} 
 **Parámetros:**
   - `municipio` (int) => Identificador del municipio
   
