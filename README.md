@@ -1,6 +1,6 @@
 # MeteoGaliciaAPI
 
-API REST desarrollada en .NET que expone un único endpoint para la obtención de datos meteorológicos de un Concello de Galicia apoyado en el API de MeteoGalicia.
+API REST desarrollada en .NET 10.0 que expone un único endpoint para la obtención de datos meteorológicos de un Concello de Galicia apoyado en el API de MeteoGalicia.
 
 ---
 
