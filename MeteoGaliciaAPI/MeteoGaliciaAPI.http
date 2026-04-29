@@ -1,13 +1,13 @@
 @MeteoGaliciaAPI_HostAddress = http://localhost:5195
 
 # Obtener datos del municipio 15001
-GET {{MeteoGaliciaAPI_HostAddress}}/api/MeteoGalicia/15001
+GET {{MeteoGaliciaAPI_HostAddress}}/api/observacion/15001
 Accept: application/json
 
 ###
 
 # Obtener datos de un municipio no existente
-GET {{MeteoGaliciaAPI_HostAddress}}/api/MeteoGalicia/1
+GET {{MeteoGaliciaAPI_HostAddress}}/api/observacion/1
 Accept: application/json
 
 ###

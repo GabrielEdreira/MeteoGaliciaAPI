@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace MeteoGaliciaAPI.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/observacion")]
 public class MeteoGaliciaController(IMeteoGaliciaService _meteoGaliciaService) : ControllerBase
 {
 
